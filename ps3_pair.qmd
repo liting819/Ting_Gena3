@@ -1,6 +1,10 @@
 ---
 title: "30538 Problem Set 3: git pair"
+<<<<<<< HEAD
+author: "Ting"
+=======
 author: "Dema Therese"
+>>>>>>> main
 format: 
   pdf:
     include-in-header: 
