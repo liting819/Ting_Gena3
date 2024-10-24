@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Genevieve Madigan"
+author: "Ting & Genevieve"
 format: 
   pdf:
     include-in-header: 
