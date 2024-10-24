@@ -1,9 +1,8 @@
 ---
 title: "30538 Problem Set 3: git pair"
-<<<<<<< HEAD
+
 author: "Ting and Genevieve"
-=======
->>>>>>> main
+
 format: 
   pdf:
     include-in-header: 
@@ -29,6 +28,7 @@ np.random.seed(42)
 data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
 def preview_data(df):
+
     head_data = df.head()  
     describe_data = df.describe() 
     chart = alt.Chart(df).mark_bar().encode(
